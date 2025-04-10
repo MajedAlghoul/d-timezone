@@ -1,0 +1,19 @@
+{
+  "name": "d-timezone",
+  "version": "1.0.0",
+  "description": "Discord bot that shows user timezone in nickname",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "express": "^4.18.2",
+    "luxon": "^3.4.4"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "author": "",
+  "license": "MIT"
+}
